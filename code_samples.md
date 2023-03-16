@@ -7,7 +7,9 @@ Shown below will be samples of code that I have written this semester:
 #This program is used to caculate hourly wage 
 
 hours = input("Enter numbers of hours daily: ")
+
 wage = input("Enter the hourly wage:  ")
+
 print("Yearly wage =",int(hours) * int(wage) * 365)
 
 **HTML:** 
