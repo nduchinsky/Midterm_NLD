@@ -10,3 +10,6 @@ Here is a picture of me at the top of **Tooth of Time** at the end of the treck:
 
 This is what the entrance of Philmonts basecamp looks like: 
 [Philmont Basecamp](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.scottsravings.com%2F2014%2F08%2Fphilmont-scout-ranch-day-zero-base-camp.html&psig=AOvVaw3j6vVfkO98GYC61X7ntFcB&ust=1679035556821000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIji7YLt3_0CFQAAAAAdAAAAABAD)
+
+
+[Return to Home Page](./README.md)
