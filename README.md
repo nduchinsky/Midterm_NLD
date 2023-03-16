@@ -9,3 +9,7 @@ You can navigate my pages using these links:
 [My Skills](./myskills.md)
 
 [Coding Samples](./code_samples.md)
+
+[My Hobbies](./my_hobbies.md)
+
+[My Professional Profile](./pro_profile.md)
