@@ -7,3 +7,5 @@ I am a sopomore at the University of Missouri - Columbia and I am currently stud
 You can navigate my pages using these links: 
 
 [My Skills](./myskills.md)
+
+[Coding Samples](./code_samples)
