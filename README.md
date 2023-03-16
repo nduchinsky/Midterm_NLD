@@ -8,4 +8,4 @@ You can navigate my pages using these links:
 
 [My Skills](./myskills.md)
 
-[Coding Samples](./code_samples)
+[Coding Samples](./code_samples.md)
